@@ -1,6 +1,10 @@
 # Input & output text files
 *.txt
 
+# vscodefiles
+./vscode 
+*.json
+
 
 # Prerequisites
 *.d

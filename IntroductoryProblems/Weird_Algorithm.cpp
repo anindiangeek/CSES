@@ -1,5 +1,7 @@
 /*
+    Problem : https://cses.fi/problemset/task/1068
     author: anindiangeek
+    Explanation :
     Collatz conjecture
     for more explanation watch: https://www.youtube.com/watch?v=094y1Z2wpJg
 */

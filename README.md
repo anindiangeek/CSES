@@ -1,2 +1,2 @@
 # CSES
-My solution for :https://cses.fi/problemset/
+My solutions for :https://cses.fi/problemset/
